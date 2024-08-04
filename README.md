@@ -20,7 +20,7 @@ This project facilitates the monitoring of the health state of disks using the [
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/adilson0888/alt-f-disk-monitor/tree/main
+   git clone https://github.com/adilson0888/alt-f-disk-monitor
    cd alt-f-disk-monitor
    ```
 
