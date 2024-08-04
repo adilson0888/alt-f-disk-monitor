@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  nas-api:
+    container_name: nas-api
+    network_mode: web
+    build: .
+    ports:
+      - "3800:3800"
+    env_file:
+      - .env
