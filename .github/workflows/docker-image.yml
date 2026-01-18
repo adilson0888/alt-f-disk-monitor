@@ -28,4 +28,5 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ghcr.io/${{ github.repository }}:prod
+        tags: ghcr.io/adilson0888/alt-f-disk-monitor:latest
+        
